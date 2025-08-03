@@ -1,49 +1,60 @@
-# Hello there! I'm yassinexng 👋
+# 👋 Hey! I'm Yassine (aka yassinexng)
 
-### Aspiring Data Analyst & Python Developer | Passionate about uncovering insights through data.
-
----
-
-**About Me:**
-
-I'm an enthusiastic programmer with a solid foundation in **C language**, which has equipped me with strong problem-solving skills and an understanding of low-level programming concepts. My journey has now led me to the exciting field of Data Science, where I'm focusing on leveraging data to derive meaningful conclusions and create impactful visualizations.
-
-I specialize in **Data Analysis with Pandas** for efficient data manipulation and **Data Visualization with Matplotlib** to tell compelling stories from data. I'm driven by curiosity and the desire to transform raw data into actionable insights. Currently, I'm deepening my expertise in Python's data science ecosystem and exploring how to apply my analytical skills to real-world challenges.
+### 🎓 Computer Science Student  | Exploring Code Across Disciplines
 
 ---
 
-**What I'm Currently Learning/Working On:**
+## 🧭 About Me
 
-* Mastering advanced techniques in `Pandas` for data aggregation, cleaning, and transformation.
-* Exploring diverse chart types and customization options with `Matplotlib` and `Seaborn` to create professional-grade visualizations.
-* Building end-to-end data analysis projects, from data acquisition to insightful reporting.
-* Diving deeper into statistical concepts relevant to data analysis.
+I'm a motivated **Computer Science student** who enjoys building real, working projects — from algorithms and data pipelines to experimental systems. I started with low-level C, moved into Python and Java, and now I’m exploring everything from machine learning to quantum-inspired logic, while staying open to full-stack, systems, and network development.
 
 ---
 
-**My Toolkit:**
+## 🧪 Projects
 
-| Category          | Technologies                                            |
-| :---------------- | :------------------------------------------------------ |
-| **Languages** | `Python` [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) `C` [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) |
-| **Data Analysis** | `Pandas` [![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) `NumPy` [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) `SQL` |
-| **Data Visualization** | `Matplotlib` [![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) `Seaborn` [![Seaborn Badge](https://img.shields.io/badge/Seaborn-37A598?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) |
-| **Tools & Environment** | `Jupyter Notebook` [![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) `VS Code` `Git` `GitHub` |
+### 🎓 [Student Performance Predictor](https://github.com/yassinexng/student-performance-predictor)
+A Python project that predicts student GPA using a linear regression model built with **NumPy** and **scikit-learn**.
 
----
-
-**Connect with Me:**
-
-* **LinkedIn:** [linkedin.com/in/yassine-m-297a71276](https://www.linkedin.com/in/yassine-m-297a71276/)
-* **Email:** [yassine.mouadi.bns@gmail.com](mailto:yassine.mouadi.bns@gmail.com)
+- Real-world CSV processing and visualization  
+- Includes both custom-built logic and scikit-learn models  
+- Full notebook with clean pipeline, model evaluation, and insights  
 
 ---
 
-**GitHub Stats:**
+### 🌌 [Quantum-Inspired Linear Regression](https://github.com/yassinexng/quantum-inspired-linear-regression)
+An experimental Java framework that uses quantum mechanics concepts like **superposition** and **tunneling** for optimization.
 
-[![yassinexng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexng&show_icons=true&theme=nord&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexng&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+- Modular design with interfaces (`QuantumState`, `ObjectiveFunction`)  
+- Implements sampling and tunneling logic for escaping local minima  
+- A creative blend of computer science theory and hands-on design patterns  
 
 ---
 
-> "Data is the new oil." - Clive Humby
+## 🧰 Tech & Tools
+
+| Category            | Tools & Technologies |
+|---------------------|----------------------|
+| **Languages**       | `Python`, `Java`, `C`, `SQL` |
+| **ML & Data**       | `NumPy`, `Pandas`, `Matplotlib`, `scikit-learn` |
+| **Environments**    | `VS Code`, `Jupyter`, `Linux` |
+| **Version Control** | `Git`, `GitHub` |
+| **Currently Learning** | `Web Development`, `Shell`, `Networking` |
+
+---
+
+## 📈 GitHub Stats
+
+[![yassinexng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexng&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexng&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 **LinkedIn:** [linkedin.com/in/yassine-m-297a71276](https://www.linkedin.com/in/yassine-m-297a71276/)
+- 📧 **Email:** [yassine.mouadi.bns@gmail.com](mailto:yassine.mouadi.bns@gmail.com)
+- 🐙 **GitHub:** [github.com/yassinexng](https://github.com/yassinexng)
+
+---
+
+> 💬 “I don’t just want to *use* technology — I want to *understand it*, *build with it*, and *push its limits*. From algorithms to apps, theory to systems — I’m all in.”
