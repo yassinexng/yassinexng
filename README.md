@@ -1,70 +1,51 @@
-# 👋 Hey! I'm Yassine 
+# Yassine Mouadi
 
-### 🎓 Computer Science Student 
+**Computer Science Engineering Student** | Data Science & Machine Learning Enthusiast
 
----
+Currently pursuing my engineering degree at ENSA Kénitra after completing my DEUST at FST. I'm that person who learns by doing—reading documentation is fine, but I'd rather break things and rebuild them to actually understand how they work.
 
-## 🧭 The Gist
+## What I Do
 
-I'm a Computer Science student who prefers **building** over just *reading*. My journey started close to the metal with **C**, went up to **Java**, and now focuses heavily on data science and machine learning using **Python** and **R**.
+I work with data and machine learning, but not in the "just call scikit-learn and hope for the best" way. I implement algorithms from scratch first to understand the math, then use proper libraries for production. Started with C to understand memory and pointers, moved to Java for OOP patterns, and now mostly work in Python and R for data work.
 
-I don't just import libraries—I write algorithms from scratch to understand the math, then use industry-standard tools to build performant applications. Whether it's simulating quantum mechanics or predicting real-world trends, I treat code as a tool to solve actual problems.
+My approach: understand the theory, implement it manually, then use the right tools to scale it.
 
----
+## Projects I've Built
 
-## 🧪 Featured Projects
+### [Student Performance Predictor](https://github.com/yassinexng/student-performance-predictor)
+Built a regression pipeline to predict student GPAs based on study habits and behavior patterns. Used real CSV data, implemented custom gradient descent logic with NumPy before switching to scikit-learn for the final model. Includes full data preprocessing, correlation analysis, and visualizations with Matplotlib.
 
-### 📊 [Student Performance Predictor](https://github.com/yassinexng/student-performance-predictor)
-**Python • NumPy**
+**Stack:** Python, NumPy, Pandas, Matplotlib, scikit-learn
 
-A data-driven project that correlates study habits with academic success. I built a linear regression pipeline to predict GPAs based on behavioral data.
-* **Data Pipeline:** Cleaned and preprocessed raw CSV data using **Pandas**.
-* **Analysis:** Visualized correlations and distributions with **Matplotlib**.
-* **Modeling:** Implemented prediction logic using **scikit-learn** for robust results.
+### [Quantum-Inspired Linear Regression](https://github.com/yassinexng/quantum-inspired-linear-regression)
+An experimental Java project that applies quantum mechanics concepts (superposition, tunneling) to optimization algorithms. The idea was to see if quantum-inspired heuristics could help escape local minima better than standard gradient descent. Pure experimentation—modular architecture with clean interfaces for different quantum states and objective functions.
 
-### ⚛️ [Quantum-Inspired Linear Regression](https://github.com/yassinexng/quantum-inspired-linear-regression)
-**Java • OOP • Optimization Algorithms**
+**Stack:** Java, OOP, Optimization Theory
 
-An experimental framework applying quantum concepts to machine learning optimization. Instead of standard gradient descent, this project uses **tunneling** and **superposition** heuristics to escape local minima.
-* **Architecture:** Modular Java design with strict interfaces (`QuantumState`, `ObjectiveFunction`).
-* **Innovation:** A creative fusion of physics theory and software engineering patterns.
+### [Logistic Regression From Scratch](https://github.com/yassinexng/logistic-regression-churn-from-scratch)
+Complete implementation of logistic regression without using high-level ML libraries. Built for customer churn prediction. Coded the sigmoid function, MLE, and gradient descent manually to prove I actually understand what's happening under the hood. Got comparable accuracy to standard libraries, which was the whole point.
 
-### 🧠 [Logistic Regression From Scratch](https://github.com/yassinexng/logistic-regression-churn-from-scratch)
-**Python • NumPy • Math**
+**Stack:** Python, NumPy, Mathematical Optimization
 
-I believe in understanding the "black box." This repo implements logistic regression without high-level ML libraries to predict customer churn.
-* **Core Logic:** Manual implementation of sigmoid functions and gradient descent optimization.
-* **Performance:** comparable accuracy to standard libraries, demonstrating deep understanding of the underlying calculus.
+### [GDG Data Project](https://github.com/yassinexng/data_project_GDG)
+Collaborative data analysis project I worked on with [YounesPRY](https://github.com/YounesPRY). Real teamwork experience dealing with merge conflicts, different coding styles, and shared problem-solving.
 
----
+**Stack:** Python, Data Analysis
 
-## 🧰 The Toolkit
+## Tech I Use
 
-I select the right tool for the job—whether it's statistical analysis, systems programming, or web dashboards.
+**Languages:** Python, Java, C, R, SQL/PL-SQL  
+**Data Science:** NumPy, Pandas, Matplotlib, scikit-learn, Streamlit  
+**Tools:** Git/GitHub, Linux, VS Code, Jupyter Notebooks
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `R`, `SQL` |
-| **Data Science** | `Pandas`, `NumPy`, `Matplotlib`, `scikit-learn` |
-| **Web & Viz** | `Streamlit`, `HTML/CSS` |
-| **Workflow** | `Git/GitHub`, `Linux`, `VS Code`, `Jupyter` |
+I pick tools based on what actually makes sense for the problem, not what's trendy.
 
----
+Fluent in Arabic, French, and English—useful when you're reading research papers in multiple languages or collaborating with different teams.
 
-## 📈 GitHub Stats
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinexng&show_icons=true&theme=tokyonight&hide=stars" alt="yassinexng's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexng&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+- **Email:** yassine.mouadi.bns@gmail.com
+- **LinkedIn:** [linkedin.com/in/yassine-m-297a71276](https://www.linkedin.com/in/yassine-m-297a71276/)
+- **GitHub:** [github.com/yassinexng](https://github.com/yassinexng)
 
----
-
-## 🌐 Let's Connect
-
-I'm always open to discussing data pipelines, algorithm design, or new tech stacks.
-
-- 🔗 **LinkedIn:** [linkedin.com/in/yassine-m-297a71276](https://www.linkedin.com/in/yassine-m-297a71276/)
-- 📧 **Email:** [yassine.mouadi.bns@gmail.com](mailto:yassine.mouadi.bns@gmail.com)
-- 🐙 **GitHub:** [github.com/yassinexng](https://github.com/yassinexng)
-
+Open to discussing data pipelines, algorithm implementations, or just talking about interesting problems worth solving.
